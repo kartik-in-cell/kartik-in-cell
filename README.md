@@ -7,8 +7,7 @@ Aspiring Data Scientist with a background in digital marketing, skilled in Pytho
 - Data Visualization (Matplotlib, Seaborn, Power BI, Tableau)
 
 ## 📊 Projects
-- **Titanic Survival Prediction:** [Link]()  
-- **Superstore Sales Dashboard:** [Link]()  
-- **Caesar Cipher Encryption:** [Link]()  
+- **My Projects:** [Link](https://github.com/kartik-in-cell/Projects)  
+- 
 
-📫 **Let's Connect:** [https://linkedin.com/in/kartik-shripatre-6697a62a5)
+📫 **Let's Connect:** [https://linkedin.com/in/kartik-in-cell)
